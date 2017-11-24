@@ -1,0 +1,9 @@
+{
+  "name": "nativescript-swift-3.0",
+  "version": "0.9.0",
+  "nativescript": {
+    "platforms": {
+      "ios": "3.0.0"
+    }
+  }
+}
